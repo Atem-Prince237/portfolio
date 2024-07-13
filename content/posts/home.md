@@ -4,7 +4,9 @@ date = 2024-01-14T07:07:07+01:00
 draft = true
 +++
 
-# CONTACT
+# Welcome To My Portfolio Site
+
+## CONTACTS
 
 > Name: **Atem Prince Nsemanyu**
 
@@ -12,17 +14,17 @@ draft = true
 
 > Tell: 673582236
 
-# Personal Statement
+## Personal Statement
 
 > Highly motivated and results-oriented
 
-# Work Experience
+## Work Experience
 
 > Programming with c#
 
 > Frontend developer
 
-# Education
+## Education
 
 > FSLC
 
@@ -32,7 +34,7 @@ draft = true
 
 > Undergraduate at LMU BUEA
 
-# Skills
+## Skills
 
 > Good with git, github, and hugo
 
