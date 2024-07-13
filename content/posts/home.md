@@ -40,4 +40,6 @@ draft = true
 
 > Web developer
 
+> Developer in C#
+
 
